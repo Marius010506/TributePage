@@ -1,0 +1,40 @@
+body{
+    font-family: Times, serif;
+    color: white;
+    background-color: black;
+}
+
+.tribute{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    max-width: 78rem;
+    margin: 0px auto;
+    background: white;
+    color: black;
+    align-items: center;
+    padding: 0px 0px 0px 1rem;
+}
+
+.titel{
+    text-align: center;
+}
+
+.lebenszeit{
+    text-align: center;
+}
+
+.zitat_bild{
+    text-align: center;
+    font-size: 3rem;
+}
+
+.bild{
+    max-width: 100%;
+    margin-bottom: -4px;
+}
+
+.biography{
+    margin: 2rem auto;
+    padding: 0px 0.5rem;
+    max-width: 40rem;
+}
